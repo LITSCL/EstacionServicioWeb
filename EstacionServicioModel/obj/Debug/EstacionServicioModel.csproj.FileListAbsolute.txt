@@ -1,0 +1,6 @@
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioWeb\EstacionServicioModel\bin\Debug\EstacionServicioModel.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioWeb\EstacionServicioModel\bin\Debug\EstacionServicioModel.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioWeb\EstacionServicioModel\obj\Debug\EstacionServicioModel.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioWeb\EstacionServicioModel\obj\Debug\EstacionServicioModel.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioWeb\EstacionServicioModel\obj\Debug\EstacionServicioModel.dll
+C:\Users\MelchioT\Documents\workVisualStudio\EstacionServicioWeb\EstacionServicioModel\obj\Debug\EstacionServicioModel.pdb
